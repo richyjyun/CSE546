@@ -6,7 +6,7 @@ Course website: https://courses.cs.washington.edu/courses/cse446/20sp/
 
 ## Topics covered
 - Underlying math (linear alegbra, vector calculus, probability and statistics)
-- Theory (convexity, gradients, bias, estimation)
+- Theory (convexity, gradients, bias-variance tradeoff, maximum likelihood estimate)
 - Stochastic gradient descent
 - PCA and SVD
 - Neural Networks (autoencoders, CNNs, GANs)

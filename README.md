@@ -4,7 +4,7 @@ Graduate level machine learning course at the University of Washington using Pyt
 
 Course website: https://courses.cs.washington.edu/courses/cse446/20sp/
 
-## Topics covered:
+## Topics covered
 - Underlying math (linear alegbra, vector calculus, probability and statistics)
 - Theory (convexity, gradients, bias, estimation)
 - Stochastic gradient descent
